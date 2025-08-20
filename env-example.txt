@@ -1,0 +1,10 @@
+GOOGLE_API_KEY="api_key_here"
+
+LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
+LANGCHAIN_API_KEY="langsmith_api_key_here"
+LANGCHAIN_PROJECT='app_namme'
+
+LANGSMITH_TRACING="true"
+LANGSMITH_ENDPOINT="https://api.smith.langchain.com"
+LANGSMITH_API_KEY="langsmith_api_key_here"
+LANGSMITH_PROJECT="app_name"
